@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GridModel
+comment1.params=rows\ cols
+comment1.target=GridModel(int,\ int)
+comment2.params=
+comment2.target=void\ initializeGrid()
+comment3.params=r\ c
+comment3.target=GridCell\ getCell(int,\ int)
+comment4.params=
+comment4.target=int\ getRows()
+comment5.params=
+comment5.target=int\ getCols()
+numComments=6
